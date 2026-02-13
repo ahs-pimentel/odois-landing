@@ -1,0 +1,24 @@
+services:
+  landing:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: odois-landing
+    restart: unless-stopped
+    networks:
+      - traefik-public
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.landing.rule=Host(`odois.com.br`) || Host(`www.odois.com.br`)"
+      - "traefik.http.routers.landing.entrypoints=websecure"
+      - "traefik.http.routers.landing.tls.certresolver=letsencrypt"
+      - "traefik.http.services.landing.loadbalancer.server.port=3000"
+      # Redirect www to root
+      - "traefik.http.middlewares.landing-www.redirectregex.regex=^https://www\\.odois\\.com\\.br/(.*)"
+      - "traefik.http.middlewares.landing-www.redirectregex.replacement=https://odois.com.br/$${1}"
+      - "traefik.http.middlewares.landing-www.redirectregex.permanent=true"
+      - "traefik.http.routers.landing.middlewares=landing-www"
+
+networks:
+  traefik-public:
+    external: true

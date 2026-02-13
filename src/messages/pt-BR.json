@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "title": "ODOIS - Sistema Operacional para Negócios",
+    "description": "Crie seu próprio SaaS ativando módulos conforme sua necessidade. CRM, Agendamentos, Pagamentos, WhatsApp e mais em uma única plataforma.",
+    "keywords": "plataforma saas, sistema para negócios, crm, agendamentos, pagamentos, whatsapp business, white label, multi-tenant"
+  },
+  "nav": {
+    "features": "Recursos",
+    "modules": "Módulos",
+    "pricing": "Planos",
+    "faq": "FAQ",
+    "login": "Entrar",
+    "startFree": "Começar Grátis",
+    "requestDemo": "Solicitar Demo"
+  },
+  "hero": {
+    "badge": "Plataforma SaaS Modular",
+    "title": "Seu negócio, seu sistema.",
+    "titleHighlight": "Ative apenas o que precisa.",
+    "subtitle": "ODOIS é o sistema operacional para negócios. Ative módulos como CRM, Agenda, Pagamentos e Automações conforme sua necessidade — pague apenas pelo que usar.",
+    "cta": "Começar Gratuitamente",
+    "ctaSecondary": "Agendar Demo",
+    "noCreditCard": "Sem cartão de crédito • Cancele quando quiser"
+  },
+  "socialProof": {
+    "companies": "+500",
+    "companiesLabel": "Empresas",
+    "users": "+2.000",
+    "usersLabel": "Usuários ativos",
+    "modules": "12",
+    "modulesLabel": "Módulos disponíveis",
+    "uptime": "99.9%",
+    "uptimeLabel": "Uptime garantido"
+  },
+  "features": {
+    "badge": "Recursos",
+    "title": "Tudo que seu negócio precisa",
+    "subtitle": "Uma plataforma completa, modular e escalável para cada tipo de operação",
+    "modular": {
+      "title": "100% Modular",
+      "description": "Ative apenas os módulos que precisa. Sem funcionalidades desnecessárias, sem complexidade extra."
+    },
+    "whiteLabel": {
+      "title": "White-label",
+      "description": "Personalize com sua marca, cores e domínio. Seus clientes veem apenas a sua identidade."
+    },
+    "multiTenant": {
+      "title": "Multi-tenant",
+      "description": "Isolamento total de dados entre organizações. Cada empresa tem seu ambiente seguro e independente."
+    },
+    "automations": {
+      "title": "Automações",
+      "description": "Automatize processos repetitivos com workflows visuais. Economize tempo e reduza erros."
+    },
+    "apiFirst": {
+      "title": "API-first",
+      "description": "Integrações poderosas via API REST. Conecte com qualquer sistema existente do seu stack."
+    },
+    "security": {
+      "title": "Segurança",
+      "description": "Dados criptografados, autenticação robusta e backups automáticos. Conformidade com LGPD."
+    }
+  },
+  "modules": {
+    "badge": "Módulos",
+    "title": "12 módulos para cada necessidade",
+    "subtitle": "Ative e desative módulos a qualquer momento, sem perder dados",
+    "tryModule": "Experimentar",
+    "crm": {
+      "name": "CRM",
+      "description": "Gerencie leads, contatos e oportunidades em um pipeline visual e intuitivo.",
+      "features": ["Pipeline visual de vendas", "Score automático de leads", "Histórico completo de interações", "Importação em massa de contatos"]
+    },
+    "agenda": {
+      "name": "Agenda",
+      "description": "Sistema de agendamentos online com confirmação automática e integração com calendário.",
+      "features": ["Agendamento online 24/7", "Confirmação automática por WhatsApp", "Integração com Google Calendar", "Gestão de horários e disponibilidade"]
+    },
+    "omnichannel": {
+      "name": "Omnichannel",
+      "description": "Centralize todas as conversas em um só lugar. WhatsApp, Email, Instagram e mais.",
+      "features": ["WhatsApp Business integrado", "Caixa de entrada unificada", "Respostas rápidas e templates", "Distribuição automática de atendimentos"]
+    },
+    "docs": {
+      "name": "Documentos",
+      "description": "Crie, envie e gerencie documentos, contratos e propostas com assinatura digital.",
+      "features": ["Geração automática de PDFs", "Templates personalizáveis", "Assinatura digital integrada", "Versionamento de documentos"]
+    },
+    "payments": {
+      "name": "Pagamentos",
+      "description": "Receba pagamentos online com checkout customizado, faturas e controle financeiro.",
+      "features": ["Checkout customizado", "Faturas automáticas", "Múltiplos meios de pagamento", "Dashboard financeiro em tempo real"]
+    },
+    "links": {
+      "name": "Biolinks",
+      "description": "Crie páginas de links personalizadas com analytics e QR codes integrados.",
+      "features": ["Página de links personalizada", "QR Code dinâmico", "Analytics de cliques", "Domínio customizado"]
+    },
+    "spaces": {
+      "name": "Espaços",
+      "description": "Gerencie unidades, salas e espaços físicos com reservas e calendário.",
+      "features": ["Cadastro de unidades e salas", "Sistema de reservas online", "Calendário de disponibilidade", "Controle de ocupação"]
+    },
+    "assemblies": {
+      "name": "Assembleias",
+      "description": "Realize votações online com segurança e transparência para condomínios e associações.",
+      "features": ["Votações online seguras", "Gestão de pautas e atas", "Controle de quórum", "Histórico de deliberações"]
+    },
+    "hr": {
+      "name": "RH",
+      "description": "Simplifique recrutamento e gestão de pessoas com formulários e pipelines.",
+      "features": ["Pipeline de recrutamento", "Formulários de candidatura", "Banco de talentos", "Avaliações e feedback"]
+    },
+    "forms": {
+      "name": "Formulários",
+      "description": "Crie formulários avançados com lógica condicional e integrações automáticas.",
+      "features": ["Drag-and-drop builder", "Lógica condicional", "Integrações com CRM e automações", "Relatórios de respostas"]
+    },
+    "automations": {
+      "name": "Automações",
+      "description": "Crie workflows visuais para automatizar tarefas e conectar módulos entre si.",
+      "features": ["Editor visual de workflows", "Triggers baseados em eventos", "Ações entre módulos", "Logs e monitoramento"]
+    }
+  },
+  "howItWorks": {
+    "badge": "Como funciona",
+    "title": "Comece em 3 passos simples",
+    "step1": {
+      "title": "Crie sua conta",
+      "description": "Cadastre-se gratuitamente em segundos. Sem cartão de crédito."
+    },
+    "step2": {
+      "title": "Ative seus módulos",
+      "description": "Escolha os módulos que fazem sentido para seu negócio."
+    },
+    "step3": {
+      "title": "Escale seu negócio",
+      "description": "Use, analise métricas e cresça com dados em tempo real."
+    }
+  },
+  "pricing": {
+    "badge": "Planos",
+    "title": "Planos que crescem com você",
+    "subtitle": "Comece grátis e faça upgrade conforme sua necessidade",
+    "monthly": "Mensal",
+    "annual": "Anual",
+    "annualDiscount": "2 meses grátis",
+    "perMonth": "/mês",
+    "popular": "Mais popular",
+    "custom": "Sob consulta",
+    "startFree": "Começar Grátis",
+    "startTrial": "Iniciar Teste",
+    "contactSales": "Falar com Vendas",
+    "free": {
+      "name": "Free",
+      "description": "Para começar a explorar",
+      "price": "0",
+      "features": ["CRM básico", "Até 100 contatos", "1 usuário", "Suporte por email"]
+    },
+    "starter": {
+      "name": "Starter",
+      "description": "Para pequenos negócios",
+      "price": "97",
+      "priceAnnual": "79",
+      "features": ["Tudo do Free +", "Agenda + Docs + Forms", "Até 1.000 contatos", "3 usuários", "Suporte prioritário"]
+    },
+    "pro": {
+      "name": "Pro",
+      "description": "Para negócios em crescimento",
+      "price": "197",
+      "priceAnnual": "159",
+      "features": ["Tudo do Starter +", "Omnichannel + Pagamentos + Automações", "Contatos ilimitados", "10 usuários", "WhatsApp integrado", "API completa"]
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "description": "Para grandes operações",
+      "features": ["Todos os 12 módulos", "Usuários ilimitados", "White-label completo", "SLA dedicado", "Suporte 24/7", "Onboarding personalizado"]
+    }
+  },
+  "testimonials": {
+    "badge": "Depoimentos",
+    "title": "O que nossos clientes dizem",
+    "items": [
+      {
+        "quote": "O ODOIS transformou completamente nossa operação. Antes usávamos 5 ferramentas diferentes, agora tudo está em um só lugar.",
+        "name": "Marina Silva",
+        "role": "CEO",
+        "company": "TechFlow Solutions"
+      },
+      {
+        "quote": "A modularidade é incrível. Começamos apenas com o CRM e hoje usamos 8 módulos. O crescimento foi natural e sem surpresas na conta.",
+        "name": "Ricardo Mendes",
+        "role": "Diretor Comercial",
+        "company": "Grupo Avante"
+      },
+      {
+        "quote": "O omnichannel com WhatsApp integrado foi game changer. Nosso tempo de resposta caiu de horas para minutos.",
+        "name": "Carla Oliveira",
+        "role": "Head de Atendimento",
+        "company": "Connect Digital"
+      }
+    ]
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Perguntas frequentes",
+    "subtitle": "Não encontrou sua resposta?",
+    "contactSupport": "Falar com suporte",
+    "items": [
+      {
+        "question": "O que é o ODOIS?",
+        "answer": "ODOIS é uma plataforma SaaS modular que funciona como um sistema operacional para negócios. Você ativa apenas os módulos que precisa — CRM, Agenda, Pagamentos, WhatsApp e mais — pagando somente pelo que usar."
+      },
+      {
+        "question": "Preciso ativar todos os módulos?",
+        "answer": "Não! Esse é o grande diferencial do ODOIS. Você começa com o que precisa e vai ativando novos módulos conforme seu negócio cresce. Sem desperdício."
+      },
+      {
+        "question": "Posso personalizar com minha marca?",
+        "answer": "Sim! O ODOIS é white-label. Você pode personalizar cores, logo, domínio e toda a identidade visual. Seus clientes veem apenas a sua marca."
+      },
+      {
+        "question": "Meus dados estão seguros?",
+        "answer": "Absolutamente. Usamos criptografia de ponta a ponta, autenticação robusta, backups automáticos e arquitetura multi-tenant com isolamento total de dados. Conformidade com LGPD."
+      },
+      {
+        "question": "Existe período de teste gratuito?",
+        "answer": "Sim! O plano Free é gratuito para sempre com CRM básico. Os planos pagos oferecem 14 dias de teste grátis, sem necessidade de cartão de crédito."
+      },
+      {
+        "question": "Como funciona a cobrança?",
+        "answer": "A cobrança é mensal ou anual (com desconto). Você paga pelo plano escolhido e pode fazer upgrade ou downgrade a qualquer momento."
+      },
+      {
+        "question": "Posso migrar de outra plataforma?",
+        "answer": "Sim! Oferecemos importação de dados via CSV e API. Nossa equipe de suporte ajuda no processo de migração sem custo adicional."
+      },
+      {
+        "question": "Tem API para integrações?",
+        "answer": "Sim! O ODOIS é API-first. Todas as funcionalidades estão disponíveis via API REST documentada, facilitando integrações com qualquer sistema."
+      },
+      {
+        "question": "Como funciona o suporte?",
+        "answer": "Oferecemos suporte por email em todos os planos, suporte prioritário nos planos Starter e Pro, e suporte 24/7 com SLA dedicado no plano Enterprise."
+      },
+      {
+        "question": "O ODOIS funciona em dispositivos móveis?",
+        "answer": "Sim! A plataforma é totalmente responsiva e funciona perfeitamente em smartphones e tablets, sem necessidade de instalar aplicativos."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pronto para transformar seu negócio?",
+    "subtitle": "Junte-se a centenas de empresas que já usam o ODOIS para crescer de forma inteligente.",
+    "primary": "Começar Gratuitamente",
+    "secondary": "Agendar Demo"
+  },
+  "footer": {
+    "description": "Sistema Operacional para Negócios",
+    "product": "Produto",
+    "productLinks": {
+      "features": "Recursos",
+      "modules": "Módulos",
+      "pricing": "Planos",
+      "changelog": "Changelog"
+    },
+    "company": "Empresa",
+    "companyLinks": {
+      "about": "Sobre",
+      "blog": "Blog",
+      "contact": "Contato",
+      "careers": "Carreiras"
+    },
+    "legal": "Legal",
+    "legalLinks": {
+      "terms": "Termos de Uso",
+      "privacy": "Privacidade",
+      "cookies": "Cookies"
+    },
+    "support": "Suporte",
+    "supportLinks": {
+      "docs": "Documentação",
+      "status": "Status",
+      "faq": "FAQ",
+      "community": "Comunidade"
+    },
+    "copyright": "© 2025 ODOIS. Todos os direitos reservados."
+  },
+  "demoForm": {
+    "title": "Agendar uma Demo",
+    "subtitle": "Preencha o formulário e nossa equipe entrará em contato em até 24 horas.",
+    "name": "Nome completo",
+    "namePlaceholder": "Seu nome",
+    "email": "Email",
+    "emailPlaceholder": "seu@email.com",
+    "company": "Empresa",
+    "companyPlaceholder": "Nome da empresa",
+    "phone": "Telefone (opcional)",
+    "phonePlaceholder": "+55 11 99999-9999",
+    "employees": "Número de funcionários",
+    "employeesPlaceholder": "Selecione",
+    "employeesOptions": {
+      "1-5": "1-5",
+      "6-20": "6-20",
+      "21-50": "21-50",
+      "51-200": "51-200",
+      "200+": "200+"
+    },
+    "modules": "Módulos de interesse",
+    "message": "Mensagem (opcional)",
+    "messagePlaceholder": "Conte-nos sobre seu negócio e como podemos ajudar...",
+    "submit": "Enviar solicitação",
+    "submitting": "Enviando...",
+    "success": "Solicitação enviada com sucesso! Entraremos em contato em breve.",
+    "error": "Erro ao enviar. Tente novamente."
+  }
+}
